@@ -1,2 +1,3 @@
 # ML_Concepts
-Respository which consists ML concepts, theoretical descriptions, simple examples
+Sample Git repo to get stated with Github. 
+This repository also consists ML concepts, theoretical descriptions, simple examples.
